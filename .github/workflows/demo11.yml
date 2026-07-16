@@ -1,4 +1,4 @@
-name: sixth demo (Label Triggered Deployment)
+name: 11.sixth demo (Label Triggered Deployment)
 
 on:
   pull_request:
