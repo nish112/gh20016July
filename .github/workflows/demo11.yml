@@ -7,7 +7,7 @@ on:
 jobs:
   deploy-job:
     # Logic: Only execute if the label added is exactly "stage-deploy"
-    if: github.event.label.name == 'stage-deploy'
+    if: github.event.label.name == 'bug'
     runs-on: ubuntu-latest
     
     # FIX: Explicitly granting write access to the GITHUB_TOKEN
