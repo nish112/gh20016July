@@ -1,4 +1,4 @@
-name: Basic Variable Demo (Workflow Level)
+name: 4.Basic Variable Demo (Workflow Level)
 
 on:
   workflow_dispatch:
